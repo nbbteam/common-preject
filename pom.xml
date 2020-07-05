@@ -32,10 +32,6 @@
 	
 	
 	
-	
-	
-	
-	
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -140,6 +136,12 @@
             <version>${grpc.version}</version>
             <scope>provided</scope>
         </dependency>
+		
+		
+		
+		
+		
+		
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-stub</artifactId>
