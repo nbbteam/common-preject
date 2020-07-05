@@ -9,8 +9,6 @@ import org.springframework.cache.annotation.EnableCaching;
 @EnableCaching
 public class CommonActionApplication {
 
-
-
 	public static void main(String[] args) {
 
 		SpringApplication.run(CommonActionApplication.class, args);
